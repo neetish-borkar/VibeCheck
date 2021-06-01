@@ -1,0 +1,6 @@
+*.mp3
+*.m4a
+*.webm
+*.wav
+*.py[cod]
+venv
